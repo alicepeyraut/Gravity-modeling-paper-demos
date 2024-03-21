@@ -4,6 +4,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alicepeyraut/Gravity-modeling-paper-demos/master)
 
 
-
-
-Interactive demos can be found at by clicking on the binder logo.
+To start a session and run the code just click on the Binder icon.
