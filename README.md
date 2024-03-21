@@ -6,4 +6,4 @@
 
 
 
-Interactive demos can be found at  https://alicepeyraut.github.io/Gravity-modeling-paper-demos.
+Interactive demos can be found at by clicking on the binder logo.
