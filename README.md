@@ -1,7 +1,9 @@
 # Welcome to [Peyraut & Genet, Submitted]'s demos!
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10535004.svg)](https://doi.org/10.5281/zenodo.10535004)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter/notebook/main?urlpath=tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alicepeyraut/Gravity-modeling-paper-demos/main?urlpath=tree)
+
+
 
 
 Interactive demos can be found at  https://alicepeyraut.github.io/Gravity-modeling-paper-demos.
