@@ -4,3 +4,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alicepeyraut/Gravity-modeling-paper-demos/master)
 
 To start a session and run the code just click on the Binder icon.
+
+https://alicepeyraut.github.io/Gravity-modeling-paper-demos/
