@@ -21,3 +21,5 @@ DAT_FILES := $(wildcard *.dat)
 
 clean_output_files:
 	rm -f $(OUTPUT_FILES) $(DAT_FILES)
+
+clean_all: clean_latex_files clean_output_files
