@@ -1,2 +1,14 @@
 
-Demos can be browsed statically but also interactively—to start a session and run the code just click on the rocket icon at the top of a tutorial page and then click on the Binder icon.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gravity-modeling-paper-demos</title>
+</head>
+<body>
+    <h1>Gravity-modeling-paper-demos</h1>
+    <p>Welcome to Peyraut & Genet's demos.</p>
+    <a href="https://mybinder.org/v2/gh/alicepeyraut/Gravity-modeling-paper-demos/master" target="_blank">Launch on Binder</a>
+</body>
+</html>
