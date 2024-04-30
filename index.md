@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Gravity-modeling-paper-demos</h1>
-    <p>Welcome to Peyraut & Genet's demos.</p>
-    <a href="https://mybinder.org/v2/gh/alicepeyraut/Gravity-modeling-paper-demos/master" target="_blank">Launch on Binder</a>
+    <p>Welcome to [Peyraut & Genet Submitted]'s demos.</p>
+    <a href="https://mybinder.org/v2/gh/alicepeyraut/Gravity-modeling-paper-demos/master/demos" target="_blank">Launch on Binder</a>
 </body>
 </html>
