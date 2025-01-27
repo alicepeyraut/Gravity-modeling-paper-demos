@@ -12,3 +12,6 @@ Fig5-hexagonal-seeds.dat
 *.xdmf
 *.xml
 *-qois.dat
+!generic_mesh.xdmf
+!generic_mesh.h5
+

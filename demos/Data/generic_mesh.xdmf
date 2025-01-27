@@ -1,1 +1,14 @@
-<Xdmf Version="3.0"><Domain><Grid Name="Grid"><Geometry GeometryType="XYZ"><DataItem DataType="Float" Dimensions="1202 3" Format="HDF" Precision="8">generic_mesh.h5:/data0</DataItem></Geometry><Topology TopologyType="Tetrahedron" NumberOfElements="4052" NodesPerElement="4"><DataItem DataType="Int" Dimensions="4052 4" Format="HDF" Precision="8">generic_mesh.h5:/data1</DataItem></Topology></Grid></Domain></Xdmf>
+<?xml version="1.0"?>
+<!DOCTYPE Xdmf SYSTEM "Xdmf.dtd" []>
+<Xdmf Version="3.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <Domain>
+    <Grid Name="mesh" GridType="Uniform">
+      <Topology NumberOfElements="6000" TopologyType="Tetrahedron" NodesPerElement="4">
+        <DataItem Dimensions="6000 4" NumberType="UInt" Format="HDF">generic_mesh.h5:/Mesh/mesh/topology</DataItem>
+      </Topology>
+      <Geometry GeometryType="XYZ">
+        <DataItem Dimensions="1331 3" Format="HDF">generic_mesh.h5:/Mesh/mesh/geometry</DataItem>
+      </Geometry>
+    </Grid>
+  </Domain>
+</Xdmf>
