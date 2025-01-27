@@ -18,3 +18,5 @@ Fig5-hexagonal-seeds.dat
 *.log
 *.synctex.gz
 *.tex
+!generic_mesh.xdmf
+!generic_mesh.h5
