@@ -20,9 +20,6 @@ cd
 echo "alias ll=\"ls -lh\"" >> ~/.bash_aliases
 echo "alias la=\"ls -lah\"" >> ~/.bash_aliases
 
-pip uninstall -y dolfin_mech  # Remove any existing version
-pip install --no-cache-dir --force-reinstall dolfin_mech==2024.1.19
-
 
 rm ~/apt.txt
 rm ~/environment.yml
