@@ -37,7 +37,7 @@ dependencies:
 # plotting stuff
   - matplotlib=3.7
 
-  - pip=23.1
+  - pip=24.0
   - pip:
   # computing stuff
     - gmsh==4.11
