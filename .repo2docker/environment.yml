@@ -43,6 +43,3 @@ dependencies:
     - gmsh==4.11
     - meshio==5.3
 
-  # mechanics stuff
-    - dolfin_mech==2024.1.19
-
