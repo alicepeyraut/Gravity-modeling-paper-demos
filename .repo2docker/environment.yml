@@ -5,11 +5,11 @@
 ###                                                                          ###
 ################################################################################
 
-name: notebook
+# name: notebook
 
-channels:
-  - conda-forge
-  - defaults
+# channels:
+#   - conda-forge
+#   - defaults
 
 # dependencies:
 # # python
@@ -35,12 +35,12 @@ channels:
 # # plotting stuff
 #   - matplotlib=3.7
 
-  - pip=22.2.2
-  - pip:
-  # computing stuff
-    - gmsh==4.11
-    - meshio==5.3
+  # - pip=22.2.2
+  # - pip:
+  # # computing stuff
+  #   - gmsh==4.11
+  #   - meshio==5.3
 
-  # mechanics stuff
-    - dolfin-mech==2024.1.19
+  # # mechanics stuff
+  #   - dolfin-mech==2024.1.24
 
