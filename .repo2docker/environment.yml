@@ -35,9 +35,12 @@ channels:
 # # plotting stuff
 #   - matplotlib=3.7
 
-#   - pip=23.1
-#   - pip:
-#   # computing stuff
-#     - gmsh==4.12.2
-#     - meshio==5.3.4 
+  - pip=22.2.2
+  - pip:
+  # computing stuff
+    - gmsh==4.11
+    - meshio==5.3
+
+  # mechanics stuff
+    - dolfin-mech==2024.1.19
 
